@@ -1,0 +1,33 @@
+PODS:
+  - R.swift (2.2.2):
+    - R.swift.Library (~> 2.1.0)
+  - R.swift.Library (2.1.0)
+  - Realm (0.101.0):
+    - Realm/Headers (= 0.101.0)
+  - Realm/Headers (0.101.0)
+  - RealmSwift (0.101.0):
+    - Realm (= 0.101.0)
+  - RxCocoa (2.4):
+    - RxSwift (~> 2.4)
+  - RxSwift (2.4)
+  - SnapKit (0.20.0)
+  - Swinject (1.1.1)
+
+DEPENDENCIES:
+  - R.swift (~> 2.2.0)
+  - RealmSwift (~> 0.101.0)
+  - RxCocoa (~> 2.4)
+  - SnapKit (~> 0.20.0)
+  - Swinject (~> 1.1.1)
+
+SPEC CHECKSUMS:
+  R.swift: ed40b24d65ad70c6cf48a2f249a26a3e5a4a7bc0
+  R.swift.Library: e5e077ed04f6867a95676af491650091b23518e9
+  Realm: b21596d6d7e1c054f6fae967d27263d2593ca309
+  RealmSwift: 5247501bcd68b9db3a718cba808e1ce45ba67034
+  RxCocoa: 7d6cd877de99f5640306b3d6cf87f580c1d91b61
+  RxSwift: 67b9ef4e8b34fb394e200e754c6a09cc16559f94
+  SnapKit: 5fce3c1bbbf1fbd31de9aa92f33eb9fa03f15650
+  Swinject: 8c1b46e49c604f8c5c1f45f92ef314d3736bbef4
+
+COCOAPODS: 0.39.0
